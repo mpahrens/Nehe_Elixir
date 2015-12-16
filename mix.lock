@@ -1,0 +1,2 @@
+%{"aleppo": {:git, "https://github.com/ChicagoBoss/aleppo.git", "ee1056f7407c6b728c4164f850eac3afc254355e", [branch: "master"]},
+  "quaff": {:git, "https://github.com/qhool/quaff.git", "df680221f52337baefacc4fab42cc8ef546c8fa8", []}}
